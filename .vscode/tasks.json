@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "todo-app",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - todo-app",
+			"detail": "react-scripts build"
+		}
+	]
+}
